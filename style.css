@@ -1,0 +1,47 @@
+.container {
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 50px;
+    color:darkolivegreen    ;
+    margin-top: 10px;
+  }
+  
+  #quiz {
+    margin: 20px 0;
+    text-align: left;
+    font-size: 20px;
+  }
+  
+  #quiz label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  #submit,
+  #reload {
+    margin-top: 20px;
+    font-size: 20px;
+    padding: 10px 20px;
+    border-radius: 20px;
+    background-color:rgb(81, 112, 26);
+  }
+  #submit,#reload :hover{
+    color: antiquewhite;
+  }
+
+  .col2{
+    background-color: antiquewhite;
+    font-size: 20px
+  }
+  .cont {
+    margin: 0 auto;
+    max-width: 800px;
+    text-align: center;
+  }
+  
+  
